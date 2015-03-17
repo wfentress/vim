@@ -31,3 +31,9 @@
 [submodule "bundle/scratch.vim"]
 	path = bundle/scratch.vim
 	url = https://github.com/vim-scripts/scratch.vim.git
+[submodule "bundle/vim-eunuch"]
+	path = bundle/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch.git
+[submodule "bundle/vim-rooter"]
+	path = bundle/vim-rooter
+	url = https://github.com/airblade/vim-rooter.git
