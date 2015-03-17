@@ -37,3 +37,30 @@
 [submodule "bundle/vim-rooter"]
 	path = bundle/vim-rooter
 	url = https://github.com/airblade/vim-rooter.git
+[submodule "bundle/vim-endwise"]
+	path = bundle/vim-endwise
+	url = https://github.com/tpope/vim-endwise.git
+[submodule "bundle/vim-sensible"]
+	path = bundle/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/incsearch.vim"]
+	path = bundle/incsearch.vim
+	url = https://github.com/haya14busa/incsearch.vim
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-speeddating"]
+	path = bundle/vim-speeddating
+	url = https://github.com/tpope/vim-speeddating.git
+[submodule "bundle/vim-characterize"]
+	path = bundle/vim-characterize
+	url = https://github.com/tpope/vim-characterize.git
+[submodule "bundle/vim-jdaddy"]
+	path = bundle/vim-jdaddy
+	url = https://github.com/tpope/vim-jdaddy.git
